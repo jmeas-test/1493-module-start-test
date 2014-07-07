@@ -1,0 +1,19 @@
+{
+  "name": "1493-module-start-test",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jmeas/1493-module-start-test",
+  "authors": [
+    "Jmeas <jellyes2@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "marionette": "~2.0.1"
+  }
+}
